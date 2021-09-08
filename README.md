@@ -30,7 +30,7 @@
 
 ## ⚙ Tools
 
-<a href="#" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.m.wikipedia.org%2Fwiki%2FDosya%3ASass_Logo_Color.svg&psig=AOvVaw3BXjA4lzNZNb3ilz4mSoxH&ust=1631221080401000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKj0wZqi8PICFQAAAAAdAAAAABAD" alt="sass" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png" alt="sass" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919832.svg" alt="ts" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/452/visual-studio-2019.png" alt="visual-studio" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a> 
