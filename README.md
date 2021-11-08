@@ -1,8 +1,8 @@
 ## Hi there. I'm Khan...👋
 
-- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
+- 🔭 I’m currently working on frontend (JavaScript | React)
 
-- 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
+- 🌱 I’m currently learning backend development (Django | PostgreSQL)
 
 - 💬 Ask me about anything that you want to learn 
 
