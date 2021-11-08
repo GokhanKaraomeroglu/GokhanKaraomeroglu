@@ -10,13 +10,13 @@
 ## 💻 Frontend
 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://en.wikipedia.org/wiki/File:CSS3_logo_and_wordmark.svg" alt="css" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://en.wikipedia.org/wiki/CSS#/media/File:CSS3_logo_and_wordmark.svg" alt="css" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="60"/> </a>
 <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="55"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://mui.com/" alt="material-ui" height="55"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/material_ui_icon_137419.png" alt="material-ui" height="55"/> </a>
 <a href="#" target="_blank"> <img src="https://react.semantic-ui.com/logo.png" alt="semantic-ui" height="60"/> </a>
 
 ## 💻 Backend
@@ -36,7 +36,7 @@
 <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://github.com/xkendx/xkendx/blob/main/eclipse.png" alt="eclipse" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime-text" height="45"/> </a> 
-<a href="#" target="_blank"> <img src="http://git-scm.com/downloads/logos" alt="git" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="http://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="git" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919847.svg" alt="gitHub" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/> </a> 
