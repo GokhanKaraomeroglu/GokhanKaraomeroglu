@@ -1,5 +1,7 @@
 ## Hi there. I'm Khan...👋
 
+- 🔭 I'm not a wizard but I can develop all about fullstack codes because I know how to google. I'm a good explorer.
+
 - 🔭 I’m currently working on frontend (JavaScript | React)
 
 - 🌱 I’m currently learning backend development (Django | PostgreSQL)
