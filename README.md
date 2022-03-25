@@ -1,5 +1,5 @@
 ## Hi there 👋 
-## I'm Khan,
+## I'm Gokhan,
 
 - 🔭   I'm not a wizard but I can develop all about fullstack codes because I know how to google. I'm a good explorer.
 
