@@ -3,7 +3,7 @@
 
 - 🔭   I'm not a wizard but I can develop all about fullstack codes because I know how to google. I'm a good explorer.
 
-- 🌱   I’m currently working on frontend (JavaScript | React.js) and backend development (Django | SQL)
+- 🌱   I’m currently working on frontend (JavaScript and React.js) and backend development (Django and SQL)
 
 - 💬   Ask me about anything that you want to learn 
 
