@@ -7,6 +7,8 @@
 
 - 💬   Ask me about anything that you want to learn 
 
+- 💬   Follow me
+
 
 ## 💻 Frontend
 
