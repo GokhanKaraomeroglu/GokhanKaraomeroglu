@@ -37,7 +37,8 @@
 
 ## ⚙ Tools
 
-<a href="#" target="_blank"> <img src="https://img.icons8.com/color/452/visual-studio-2019.png" alt="visual-studio" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Gstreamer-logo.svg" alt="gstreamer" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://media.licdn.com/dms/image/D5612AQH8PbnXtBsTpA/article-cover_image-shrink_600_2000/0/1664111892245?e=2147483647&v=beta&t=25hA6U9Bkp9U_srLcOUJgOHrhMFlJ-PWwilcXr1YvMc" alt="Nvidia Deepstream" height="70"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime-text" height="45"/> </a> 
 <a href="#" target="_blank"> <img src="http://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="git" height="50"/> </a> 
