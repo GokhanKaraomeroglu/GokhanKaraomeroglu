@@ -1,10 +1,12 @@
 ## Hi there 👋 
 ## I'm Gökhan
 
-- 🔭   I'm not a wizard but I can develop all about fullstack codes because I know how to google. I'm a good explorer.
+- 🔭   I'm not a wizard but I can develop all about fullstack codes and data science.
 
 - 🌱   I’m currently working on frontend (JavaScript and React.js) and backend development (Django and SQL)
-
+  
+- 💻   I'm interested in gstreamer and nvidia deepstream.
+  
 - 💬   Ask me about anything that you want to learn 
 
 - 💬   Follow me for new projects
